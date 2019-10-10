@@ -1,0 +1,3 @@
+/home/dany/CLionProjects/Ejer4Guia05/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dany/CLionProjects/Ejer4Guia05/cmake-build-debug/CMakeFiles/Ejer4Guia05.dir
+/home/dany/CLionProjects/Ejer4Guia05/cmake-build-debug/CMakeFiles/edit_cache.dir
